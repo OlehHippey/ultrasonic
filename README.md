@@ -1,0 +1,1 @@
+Ultrasonic detector HC-SR04 + N76E003 microcontroller + EV1527 transmitter
